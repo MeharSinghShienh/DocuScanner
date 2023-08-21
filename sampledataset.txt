@@ -1,0 +1,3 @@
+0   this is a sample data set
+1   format the documents like this
+2   with the document number at the beginning of the line and the content of the document seperated a tab away
